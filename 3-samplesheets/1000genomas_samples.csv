@@ -1,0 +1,3 @@
+patient,sample,lane,fastq_1,fastq_2
+individuo1,muestra1,1,2-input-fastq/sample1.final.cram_R1.fastq.gz,2-input-fastq/sample1.final.cram_R2.fastq.gz
+individuo2,muestra2,2,2-input-fastq/sample2.final.cram_R1.fastq.gz,2-input-fastq/sample2.final.cram_R2.fastq.gz
