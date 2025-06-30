@@ -1,0 +1,7 @@
+# ignore NF tmps
+work
+.nextflow*
+
+# ignore results that can be build back
+prueba-sarek
+results
