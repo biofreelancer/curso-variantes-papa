@@ -4,6 +4,6 @@ nextflow run nf-core/sarek \
     --outdir results/1000genomas \
     --genome 'GATK.GRCh38' \
     --tools strelka \
-    -c a-configfiles/low-res-machine.config \
+    -c a-configfiles/hi-res-machine.config \
     -profile docker \
     -resume
